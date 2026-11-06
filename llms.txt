@@ -2,7 +2,7 @@
 
 > An independent, factual guide to EditPad Lite 8: what the free edition covers, what a work licence costs, how it differs from EditPad Pro and where to download it from the vendor.
 
-Independent guides to Editpadlite by Aleksej Palivoda. Facts come from the vendor's pages on the date shown on each page.
+Independent guides to Editpadlite by Plain Text Ledger. Facts come from the vendor's pages on the date shown on each page.
 
 ## Start
 - [EditPad Lite download: version 8.6.1 from the official site](https://editpadlite.github.io/download.html): Download EditPad Lite 8.6.1 from the vendor: 18 MB installer, Windows XP to 11, free for personal use. Install steps, portable option and licence terms.
