@@ -1,0 +1,882 @@
+# Plain Text Ledger: all guides
+
+# EditPad Lite 8: free Windows text editor, licence rules and official download
+
+URL: https://editpadlite.github.io/index.html
+Updated: 2026-11-05
+
+EditPad Lite is a small text editor for Windows from Just Great Software. It is free for personal use and costs 24.95 euro per user for work. This guide covers what the editor does, the licence rules and the official download.
+
+## Key facts
+
+- Current version: 8.6.1, released 8 April 2026
+- Personal use: Free
+- Work licence: 24.95 euro per user, before tax
+- Windows: XP, Vista, 7, 8, 8.1, 10, 11
+- Installer: 18 MB
+- Vendor: Just Great Software Co. Ltd.
+- Checked: 2026-11-05
+
+EditPad Lite is a Windows text editor from Just Great Software that is free for home and school use that earns no income. Work or business use needs a licence, which costs 24.95 euro for one user before tax. Version 8.6.1 was released on 8 April 2026 and runs on Windows XP through Windows 11.
+
+## What EditPad Lite is
+
+EditPad Lite is a text editor for Windows published by Just Great Software Co. Ltd. The vendor says EditPad has been in continuous development since its first release in 1996, and the current build is 8.6.1 from 8 April 2026. It opens plain text files of almost any origin: Windows, UNIX and classic Mac line breaks, Unicode and a long list of legacy code pages.
+The editor keeps each file in a tab, offers unlimited undo and redo that survive a save, and has a search and replace panel with regular expressions. It is the smaller sibling of a paid product, so some tools are held back. The [EditPad Lite review](review.html) goes through what is in the box, and the [comparison with EditPad Pro](editpad-lite-vs-editpad-pro.html) lists what is not.
+
+## Pages in this guide
+
+- Download: File name, size, current version, install steps and the route to the vendor's site.
+- Review: What the editor does, where it stops, and a score based on the documented facts.
+- Pricing: The licence table from the purchase page, user counting rules and upgrade prices.
+- Free or paid: Where personal use ends and what a licensed copy adds.
+- Lite vs Pro: The feature split between the two editions and the cost of moving up.
+- Alternatives: Six other text editors with licence and platform facts.
+- Portable install: Help > Create Portable Installation, step by step, for a USB drive.
+- System requirements: Supported Windows versions, Linux through Wine and what is not published.
+- Refund policy: The three month money back guarantee and the upgrade rules.
+
+## Free or licensed
+
+The licence splits by purpose, not by feature count. Home or school use that earns no income is free, with no payment and no registration. Any job or business use needs a paid licence, which also unlocks a spell checker, the user forum and files larger than 2 GB. The page on [free versus licensed use](free-vs-paid.html) draws the line in detail.
+A single user licence is 24.95 euro before tax, and volume packages run from 5 to 100 users with a falling price per user. The vendor backs every purchase with a three month money back guarantee. See [EditPad Lite pricing](pricing.html) for the full table.
+
+## Key facts in one table
+
+| Item | Value |
+|---|---|
+| Current version | 8.6.1, released 8 April 2026 |
+| Windows | XP, Vista, 7, 8, 8.1, 10, 11, in 32 bit and 64 bit |
+| Installer | SetupEditPadLite.exe, 18 MB |
+| Price for personal use | Free, no registration |
+| Price for work use | 24.95 euro per user before tax |
+| Guarantee | Three months, money back |
+| macOS and Linux | No native version; Linux through Wine |
+Version 8 supports every desktop Windows release from XP to 11. The vendor publishes no processor or memory figures. Details, including the Wine route for Linux, are on the [system requirements page](system-requirements.html).
+
+## How to get it
+
+The installer comes from the vendor only. The [download page](download.html) of this guide lists the file name, size and install steps, then sends you to editpadlite.com for the file itself or for a licence.
+
+> Free at home, 24.95 euro at work. One small installer for every text encoding you are likely to meet.
+
+
+## FAQ
+
+**What is EditPad Lite?**
+
+EditPad Lite is a text editor for Windows published by Just Great Software Co. Ltd. It edits plain text in tabs, with unlimited undo, regular expression search and support for Unicode and many legacy encodings. It is the smaller edition of EditPad Pro.
+
+**Is EditPad Lite free?**
+
+EditPad Lite is free for personal use, which the vendor defines as home or school use that earns no income. No payment or registration is needed for that. Use for a job or a business requires a licence from 24.95 euro per user before tax.
+
+**What is the latest version of EditPad Lite?**
+
+The latest version listed on the vendor's download page is 8.6.1, released on 8 April 2026. It fixed a rare crash that was introduced in version 8.5.0, and the vendor advises users of 8.5.x and 8.6.0 to update.
+
+**Does EditPad Lite work on Windows 11?**
+
+Yes. EditPad Lite 8 supports Windows XP, Vista, 7, 8, 8.1, 10 and 11, in both 32 bit and 64 bit versions. The same installer is used on all of them.
+
+**Who makes EditPad Lite?**
+
+EditPad Lite is published by Just Great Software Co. Ltd., which also sells EditPad Pro, PowerGREP, RegexBuddy and AceText. The copyright notice on the site names Jan Goyvaerts.
+
+**Is there an EditPad Lite for Mac?**
+
+No. The vendor offers no macOS version and its pages do not mention running EditPad Lite on a Mac. For Linux it documents running the Windows version through Wine.
+
+
+---
+
+# EditPad Lite download: version 8.6.1 from the official site
+
+URL: https://editpadlite.github.io/download.html
+Updated: 2026-11-05
+
+The EditPad Lite download is one 18 MB installer from the vendor's own server. This page lists the current version, the supported Windows releases, the licence terms and the install steps, then sends you to the official site.
+
+## Key facts
+
+- Version: 8.6.1
+- Released: 8 April 2026
+- File: SetupEditPadLite.exe, 18 MB
+- Windows: XP to 11, 32 bit and 64 bit
+- Cost: Free for personal use
+- Checked: 2026-11-05
+
+The EditPad Lite download is a single installer, SetupEditPadLite.exe, listed at 18 MB on the vendor's download page. The current version is 8.6.1, released on 8 April 2026, for Windows XP through Windows 11. It is free for personal use with no payment or registration, while work use needs a licence.
+
+## What you get
+
+The EditPad Lite download from editpadlite.com is a working editor, not a time limited demo. Anyone who uses it for personal purposes installs it without payment, registration or a key. The vendor's pages mention no time limit for that use.
+If you will use it for a job or a business, the vendor requires a licence. Licensed users get their own build from the purchased download section of the same vendor page. The [free versus licensed page](free-vs-paid.html) explains which case is yours.
+
+## File details
+
+| Item | Value |
+|---|---|
+| Version | 8.6.1 |
+| Released | 8 April 2026 |
+| File name | SetupEditPadLite.exe |
+| Size | 18 MB (purchased download: 19 MB) |
+| Windows | XP, Vista, 7, 8, 8.1, 10, 11 |
+| Builds | 32 bit and 64 bit |
+| Language editions | English, Danish, German, Spanish, French, Dutch, Polish, Portuguese (Brazil), Romanian |
+| Price | Free for personal use |
+These details come from the vendor's download page, read on 5 November 2026. Hardware figures are not published. The [system requirements page](system-requirements.html) covers what is known, including Linux through Wine.
+
+## How to install
+
+1. Get the installer from the vendor: Use the button on this page to open editpadlite.com and download SetupEditPadLite.exe. Other language editions are linked from the vendor's site.
+2. Run the installer: Start the file. Since version 8.0.0, EditPad Lite can be installed per user without administrator rights.
+3. Choose the installation type: Click Immediate Installation for a standard setup. To put the editor on a USB stick instead, use the portable installation button. The [portable guide](portable-install.html) has the details.
+4. Start EditPad Lite: Open the program from its icon. With the default settings it behaves like most Windows text editors, so nothing has to be configured before the first use.
+5. Keep it current: Use Help > Check for New Version from time to time. An update is installed by running the new full installer, and the old version does not have to be removed first.
+
+## Trial and licence terms
+
+There is no trial as such, because personal use is free. For work use, a single user licence costs 24.95 euro before tax, and the other packages are on the [pricing page](pricing.html). A licence bought today covers all 8.x.x releases.
+Paid licences carry a three month money back guarantee, summarised on the [refund policy page](refund-policy.html). Download only from the vendor: copies from file archives can be out of date, and a key from an unofficial source is not a licence.
+
+
+## FAQ
+
+**Is the EditPad Lite download free?**
+
+Yes, for personal use. The vendor allows home and school use that earns no income without payment or registration. Use for a job or a business requires a licence, which costs 24.95 euro for one user before tax.
+
+**What is the latest version of EditPad Lite?**
+
+The vendor's download page lists version 8.6.1, released on 8 April 2026. The release before it was 8.6.0 from 29 October 2025.
+
+**Is there a 64 bit EditPad Lite download?**
+
+Yes. EditPad Lite 8 is offered in 32 bit and 64 bit builds for Windows XP through Windows 11. The download page lists one installer file of 18 MB for the free edition.
+
+**Do I need administrator rights to install EditPad Lite?**
+
+Not necessarily. The release notes for version 8.0.0 introduced installation per user without administrator rights. A portable installation on a USB drive is another route when you cannot install software on a computer.
+
+**Where do licensed users download EditPad Lite?**
+
+Licensed users download their build from the purchased download section of the vendor's download page, listed at 19 MB. One user ID works with every language edition of version 8.
+
+**How do I update EditPad Lite?**
+
+Choose Help > Check for New Version in the program, or look at the version history on the vendor's site. Then download the full installer and run it. The earlier version does not need to be uninstalled first.
+
+
+---
+
+# EditPad Lite review: a small Windows text editor with clear limits
+
+URL: https://editpadlite.github.io/review.html
+Updated: 2026-11-05
+
+This EditPad Lite review is built from the vendor's feature pages, user's guide and release notes for version 8.6.1. It covers what the editor does, where the free edition stops, and who should pay for a licence or step up to Pro.
+
+## Key facts
+
+- Score: 8.0 / 10
+- Free edition: Personal use only
+- Work licence: 24.95 euro per user
+- Free file limit: 2 GB
+- Pro only: Column selection, macros, file compare
+- Platform: Windows XP to 11
+- Checked: 2026-11-05
+
+EditPad Lite scores 8.0 out of 10 in this review. It is a small Windows text editor with tabs, unlimited undo, regular expression search and very broad encoding support, free for personal use and 24.95 euro per user for work. Its main limits are the 2 GB file cap in the free edition and the tools reserved for EditPad Pro, such as column selection, macros and file comparison.
+
+## Verdict (8.0/10)
+
+EditPad Lite is a sound choice for people who edit plain text, logs, configuration files and the odd script on Windows and want an editor that handles any encoding without setup. The score rests on the documented feature set, the licence terms and the published limits. No lab tests were run for this review.
+It loses points for being Windows only, for charging for work use where several rivals do not, and for keeping everyday tools such as column selection and line sorting in the Pro edition.
+
+## Editing and file handling
+
+This EditPad Lite review starts with the basics. The editor opens each file in its own tab and sets no limit on how many files are open at once. Undo and redo are unlimited for every open file and stay available after you save, so saving often does not cut off the path back to an earlier state.
+Large files load in the background, so the top and the end of a file can be edited before loading finishes, and there is no hard limit on line length. The free edition handles files up to 2 GB. A licensed copy edits any file that fits in available memory, which is one of the practical reasons to pay. The [free versus licensed page](free-vs-paid.html) lists the others.
+The vendor's home page also lists automatic backup and working copies. The release notes for 8.6.0 put the default working copy interval at 5 minutes with a minimum of 1 minute, and note that an empty file no longer produces an empty working copy.
+
+## Search and replace
+
+Search lives in a panel docked under the text, not in a floating dialog that covers it. You can switch to a compact toolbar or hide both. The search and replace boxes take multiple lines, and a search can run forward or backward through the current file, the selection or all open files.
+Regular expressions use the engine the vendor developed for PowerGREP, with backreferences in the replacement text. Named options include adapt case, which keeps upper, lower and title case when replacing without case sensitivity, and line by line, which acts on the whole line of each match. Matches can be highlighted, cut or copied in one go, and Search History repeats any of the last 16 searches.
+
+## Unicode and encodings
+
+Encoding support is the strongest part of the feature list. EditPad Lite edits UTF-8, UTF-16 and UTF-32 directly, along with Windows code pages, ISO 8859 code pages, DOS code pages, classic Mac code pages, KOI8 and several EBCDIC code pages used on IBM mainframes. Convert > Text Encoding converts a file between any two of them, and a file can be reinterpreted when detection guesses wrong.
+Windows, UNIX and classic Mac line breaks are kept as they are unless you convert them. Right to left scripts such as Hebrew and Arabic and complex scripts such as the Indic family are supported, with input through any Windows keyboard layout or IME.
+
+## Interface and settings
+
+Version 8 brought flat toolbar icons that scale up to 400 percent, a dark theme next to the light one, and colour palettes that include colour blind friendly, solarized and monochrome sets. Syntax colouring covers many languages, among them HTML, C#, Java and Python, and fonts with ligatures such as Fira Code are supported.
+Settings are split by file type, so plain text can wrap in a proportional font while source code stays in a fixed font. Menus, toolbars and keyboard shortcuts can be rearranged, and preferences export to an .ini file for the next computer. Full help opens with F1, and a portable copy for a USB stick is one menu command away.
+
+## Limits to know before you choose
+
+The vendor's own edition comparison is open about what Lite lacks. Rectangular selections, line sorting, bookmarks, keystroke macros, the file compare tool, the hex editor, search on disk, projects and the FTP client are all in Pro only. The [Lite versus Pro comparison](editpad-lite-vs-editpad-pro.html) has the full list.
+The spell checker, the user forum and the Syntax Coloring Scheme Editor need a licensed copy. There is no native build for macOS or Linux. And because free use stops at the office door, a team that wants a no cost editor at work should look at the [alternatives to EditPad Lite](alternatives.html) before settling.
+Cost is modest if you do need a licence: [pricing](pricing.html) starts at 24.95 euro for one user and falls with volume. The installer is 18 MB, and the [download page](download.html) lists the file details and install steps.
+
+## Pros and cons
+
+Pros:
+- Free for personal use with no registration
+- Very wide encoding support, including EBCDIC and legacy code pages
+- Unlimited undo and redo that survive a save
+- Regular expression search and replace across all open files
+- Small 18 MB installer, portable mode, Windows XP to 11
+- Three month money back guarantee on paid licences
+Cons:
+- Work use requires a paid licence
+- Free edition stops at 2 GB files
+- No column selection, line sorting, macros or file compare; those are in Pro
+- Spell checker only in licensed copies
+- Windows only, with Linux reached through Wine
+
+
+## FAQ
+
+**Is EditPad Lite a good text editor?**
+
+On its documented features, yes for plain text work on Windows. It offers tabs, unlimited undo, regular expression search and support for Unicode and many legacy encodings. It is less suited to people who need column selection, macros or file comparison, which the vendor keeps in EditPad Pro.
+
+**Is EditPad Lite safe to download?**
+
+The installer is served from the vendor's own download server and the publisher is Just Great Software Co. Ltd., which has sold EditPad since 1996. Get the file only from the official site. Copies on other sites may be outdated or altered.
+
+**Does EditPad Lite support regular expressions?**
+
+Yes. Search and replace accepts regular expressions and uses the engine the vendor developed for its PowerGREP product. Backreferences can be used in the replacement text, and a replace can run on the current file, the selection or all open files.
+
+**Does EditPad Lite have a dark mode?**
+
+Yes. Version 8.0.0 added a dark theme for the interface alongside the light one. The editor also ships with many colour palettes, including dark, monochrome, solarized and colour blind friendly sets.
+
+**Can EditPad Lite open large files?**
+
+The free edition opens files up to 2 GB and loads them in the background, so you can start editing before loading ends. A licensed copy edits files of any size that fit in available memory. Files larger than memory need EditPad Pro.
+
+**Does EditPad Lite have a spell checker?**
+
+Only in licensed copies. The vendor lists the integrated spell checker as a bonus feature of licensed EditPad Lite and of EditPad Pro, with dictionaries downloaded separately. The free edition for personal use does not include it.
+
+
+---
+
+# EditPad Lite pricing: free for personal use, 24.95 euro for work
+
+URL: https://editpadlite.github.io/pricing.html
+Updated: 2026-11-05
+
+EditPad Lite pricing is simple: nothing for personal use, 24.95 euro per user for work, and volume packages up to 100 users. These figures come from the vendor's purchase page and exclude tax.
+
+## Key facts
+
+- Personal use: Free
+- Single user: 24.95 euro before tax
+- 5 users: 99.95 euro (19.99 each)
+- 100 users: 899 euro (8.99 each)
+- Upgrade from version 7: 12.95 euro
+- Guarantee: 3 months, money back
+- Checked: 2026-11-05
+
+EditPad Lite pricing starts at zero for home and school use that earns no income. A single user licence for work costs 24.95 euro before tax, a 5 user package is 99.95 euro, and the price per user falls to 8.99 euro at 100 users. Upgrades from version 7 cost 12.95 euro, and every purchase has a three month money back guarantee.
+
+## Licence prices
+
+EditPad Lite pricing on the vendor's purchase page is listed in euro and excludes sales tax, VAT or GST, which is added at checkout where a country charges it. A business with a tax exemption can enter its tax ID or VAT number at checkout to remove the tax.
+| Licence | Package price | Price per user |
+|---|---|---|
+| Personal use | Free | Free |
+| Single user | 24.95 euro | 24.95 euro |
+| 5 users | 99.95 euro | 19.99 euro |
+| 10 users | 179.00 euro | 17.90 euro |
+| 20 users | 319.00 euro | 15.95 euro |
+| 30 users | 419.00 euro | 13.96 euro |
+| 50 users | 599.00 euro | 11.98 euro |
+| 75 users | 749.00 euro | 9.98 euro |
+| 100 users | 899.00 euro | 8.99 euro |
+Sizes between the listed packages are sold at the per user rate of the largest package below them. The vendor's example is a 7 user licence at 19.99 euro each, 139.93 euro in total. More than 100 users means contacting the vendor's sales address.
+
+## How many licences you need
+
+Licences are counted by user, and the rule is more generous than a count per computer. The size you need is the smaller of two numbers: the people who use EditPad Lite and the computers it runs on. Five people with ten computers need a 5 user licence, and nine people sharing four computers need a 4 user licence.
+One person can install a single user licence on every computer they use. One computer shared by any number of people is also covered by a single user licence. On servers, the count is the people and client computers that reach the program, and the number of servers does not matter.
+None of this applies at home. If your use is personal, the [free edition rules](free-vs-paid.html) cover you and there is nothing to buy.
+
+## Upgrades and the AceText bundle
+
+Anyone who bought on or after 23 December 2019 already owns version 8 and can download the latest build. A version 7 licence bought between 23 December 2018 and 22 December 2019 came with a free upgrade to version 8. Older licences get the discounted upgrade price.
+If you later outgrow Lite, the vendor sells EditPad Pro to Lite buyers for 29.95 euro where new customers pay 49.95 euro. The [EditPad Lite versus EditPad Pro page](editpad-lite-vs-editpad-pro.html) shows what that buys.
+| Offer | Price | Notes |
+|---|---|---|
+| Upgrade from version 7 to 8, single user | 12.95 euro | For owners of an earlier licence |
+| Upgrade from version 7 to 8, 5 users | 49.95 euro | 9.99 euro per user |
+| Upgrade to EditPad Pro, single user | 29.95 euro | For EditPad Lite buyers, direct from the vendor |
+| EditPad Lite with AceText, single user | 49.95 euro | Listed at 59.90 euro undiscounted |
+
+## What the price includes
+
+The licence is a single purchase for the major version you buy. The vendor's upgrade policy says a later major version usually costs about half the product price, and that nobody is forced to upgrade: the version you bought stays available.
+Payment is by credit, debit or prepaid card through a secure checkout, or by bank transfer. Companies with an approval process can request a formal quote, which is shown in the browser at once. With a card, the download is available right after checkout.
+- Free technical support by email
+- Free minor updates: an 8.x.x licence covers every 8.x.x release
+- A free major upgrade if one is released within twelve months of your purchase
+- One user ID that works with every language edition of version 8
+- Bonus features over the free edition: spell checker, user forum access and the Syntax Coloring Scheme Editor
+- A three month money back guarantee, described on the [refund policy page](refund-policy.html)
+
+## Coupons and discounts
+
+The vendor publishes no coupon codes on the pages checked for this guide. The discounts it does publish are the volume tiers, the upgrade price for owners of older versions, the bundle with AceText and the reduced Pro price for Lite buyers. Treat coupon sites that promise more with caution, and never use a key from an unofficial source.
+The cheapest legal route is also the obvious one: use the free edition if your use is personal. If you are unsure whether the editor suits you, the [review](review.html) sums up strengths and limits, and the [download page](download.html) leads to the vendor's installer.
+
+
+## FAQ
+
+**How much does EditPad Lite cost?**
+
+EditPad Lite is free for personal use. For work or business use, a single user licence costs 24.95 euro before tax. Volume packages lower the price per user, down to 8.99 euro each in the 100 user package.
+
+**Is EditPad Lite a subscription?**
+
+No recurring plan is listed on the vendor's purchase page. A licence is a single purchase that covers every release of the major version you bought, such as all 8.x.x builds. A later major version is an optional paid upgrade, usually at about half price.
+
+**Is there an EditPad Lite coupon or discount code?**
+
+The vendor publishes no coupon codes on its purchase, upgrade or guarantee pages. Its published discounts are volume pricing, a 12.95 euro upgrade price for owners of older versions and a bundle with AceText at 49.95 euro.
+
+**Do I need one EditPad Lite licence per computer?**
+
+No. Licences are counted by users, and the number you need is the smaller of the people using the program and the computers it runs on. One person may install a single user licence on all the computers they use.
+
+**Are taxes included in the EditPad Lite price?**
+
+No. The listed prices exclude sales tax, VAT or GST, which is added at checkout in countries that charge it on internet sales. Tax exempt businesses can enter a tax ID or VAT number at checkout to remove it.
+
+**How can I pay for EditPad Lite?**
+
+The vendor's checkout accepts major credit cards, debit cards and prepaid cards, and bank transfer is also offered. A formal quote can be requested for company purchasing processes. With card payment the download is available immediately after checkout.
+
+
+---
+
+# Is EditPad Lite free? Personal use versus the paid licence
+
+URL: https://editpadlite.github.io/free-vs-paid.html
+Updated: 2026-11-05
+
+Is EditPad Lite free? Yes, for personal use. The vendor allows home and school use that earns no income at no charge, and asks for a paid licence as soon as the editor is used for a job or a business.
+
+## Key facts
+
+- Free for: Home or school use with no income
+- Registration: Not needed for free use
+- Work use: Licence required
+- Licence: 24.95 euro per user
+- Free file limit: 2 GB
+- Checked: 2026-11-05
+
+EditPad Lite is free for personal use only, which the vendor defines as use at home or school that does not generate income. No payment or registration is needed for that. Use for work or business requires a licence from 24.95 euro per user, which also adds a spell checker, forum access and support for files over 2 GB.
+
+## The rule the vendor sets
+
+Is EditPad Lite free to use? The answer depends on where you use it. The vendor's download and upgrade pages say the same thing: EditPad Lite is free for personal use only. Personal means at home or at school, in a way that does not earn money.
+For that use you download the installer, run it and start typing. There is no payment, no registration and no key. The pages checked for this guide mention no time limit and no trial period for personal use.
+Work is different. Use for a job or a business requires a purchased licence. The vendor describes the free download as freeware for non commercial use at home or school, and treats the paid licence as the version for everything else.
+
+## Free and licensed side by side
+
+| Item | Free edition | Licensed copy |
+|---|---|---|
+| Allowed use | Home or school, no income | Job and business use |
+| Price | Free | 24.95 euro per user before tax |
+| Registration | None | User ID sent after purchase |
+| Largest file | 2 GB | Any size that fits in available memory |
+| Spell checker | No | Yes, dictionaries downloaded separately |
+| User forum access | No | Yes |
+| Syntax Coloring Scheme Editor | No | Yes, as a download |
+| Technical support by email | Not stated | Included |
+| Unicode, tabs, undo, regular expression search | Yes | Yes |
+The feature rows come from the vendor's edition comparison and its purchase page. The core editor is the same in both columns.
+
+## Which side of the line you are on
+
+The vendor does not publish a longer definition than this, so borderline cases such as volunteer work for a charity are not addressed on its pages.
+- Writing notes, letters or personal code at home: free.
+- Students doing schoolwork: free, as long as the work earns no income.
+- Editing files as part of a paid job, on any computer: licence required.
+- A business installing it for staff: licence required, counted by users. See [pricing](pricing.html) for the tiers.
+- Paid freelance work at home: the vendor's test is whether the use generates income, so this points to a licence. Ask the vendor if your case is unclear.
+
+## Moving from free to licensed
+
+Buying a licence does not mean starting again. After checkout the vendor sends a user ID, and the purchased download section of its download page provides the licensed build, listed at 19 MB against 18 MB for the free one. One user ID covers every language edition of version 8.
+A single user licence covers all the computers one person uses, so the same licence serves a desktop and a laptop. If the licensed copy disappoints, the [three month money back guarantee](refund-policy.html) applies.
+
+## When neither edition fits
+
+Some needs are outside Lite altogether, paid or not. Column selections, sorting lines, recording macros, comparing two files and editing files larger than memory are EditPad Pro features. The [EditPad Lite versus EditPad Pro comparison](editpad-lite-vs-editpad-pro.html) shows the split.
+Either way the starting point is the same vendor site. Check the [supported Windows versions](system-requirements.html), then get the file through the [download page](download.html).
+
+
+## FAQ
+
+**Is EditPad Lite really free?**
+
+Yes, for personal use. The vendor states that home or school use that does not generate income needs no payment and no registration. It is not free for work or business use, which requires a licence.
+
+**Can I use EditPad Lite at work for free?**
+
+No. The vendor's terms say EditPad Lite is free for personal use only, and that use for a job or a business requires a purchased licence. A single user licence costs 24.95 euro before tax.
+
+**Does the free version of EditPad Lite expire?**
+
+The vendor's pages mention no time limit or trial period for personal use. The free edition is described as freeware for non commercial use at home or school, with no registration.
+
+**What does the paid EditPad Lite licence add?**
+
+A licence permits work and business use. According to the vendor it also adds an integrated spell checker, access to the user forum, the Syntax Coloring Scheme Editor download, and editing of files larger than 2 GB that fit in available memory.
+
+**Do I have to register the free version?**
+
+No. The vendor states that the free version needs no payment or registration. Only buyers receive a user ID, which is used for the purchased download.
+
+**Is EditPad Lite a trial of EditPad Pro?**
+
+No. EditPad Lite is a separate, smaller edition that stays free for personal use. EditPad Pro has its own free evaluation download, which the vendor says reminds you to buy a licence if you keep using it.
+
+
+---
+
+# EditPad Lite vs EditPad Pro: what the extra 25 euro buys
+
+URL: https://editpadlite.github.io/editpad-lite-vs-editpad-pro.html
+Updated: 2026-11-05
+
+EditPad Lite vs EditPad Pro is a choice between a free, smaller editor and its full sibling from the same vendor. Both share one user's guide and one look. Pro adds the power tools and removes the file size ceiling.
+
+## Key facts
+
+- EditPad Lite: Free for personal use, 24.95 euro for work
+- EditPad Pro: From 49.95 euro per user
+- Upgrade Lite to Pro: 29.95 euro for Lite buyers
+- Both run on: Windows XP to 11
+- Pro trial: Free evaluation download
+- Checked: 2026-11-05
+
+EditPad Lite and EditPad Pro are two editions of the same Windows editor from Just Great Software. Lite is free for personal use or 24.95 euro per user for work, and covers tabs, Unicode, regular expression search and syntax colouring. Pro starts at 49.95 euro and adds column selection, macros, file comparison, a hex editor, FTP, projects and support for files larger than memory.
+
+## The short version
+
+EditPad Lite vs EditPad Pro is less a contest than a ladder. The two editions share a look and a single user's guide that marks the Pro only features. Version 8.6.1 of both was released on 8 April 2026, and both run on Windows XP through Windows 11 in 32 bit and 64 bit.
+Lite is the part of the editor most people need: open files in tabs, edit in any encoding, search with regular expressions, undo without limit. Pro is aimed at people who work in text all day and need to reshape it, compare it, automate it or reach it on a server.
+
+## Feature comparison
+
+| Feature | EditPad Lite | EditPad Pro |
+|---|---|---|
+| Price for one user | Free for personal use; 24.95 euro for work | From 49.95 euro |
+| Largest file | 2 GB free; limited by memory when licensed | Over 4 GB, including files larger than RAM |
+| Unicode and legacy encodings | Yes | Yes |
+| Regular expression search and replace in open files | Yes | Yes |
+| Syntax colouring, light and dark themes | Yes | Yes |
+| Spell checker | Licensed copies only | Yes |
+| Rectangular (column) selections | No | Yes |
+| Sort lines | No | Yes |
+| Bookmarks | No | Yes |
+| Keystroke macros | No | Yes |
+| File compare tool | No | Yes |
+| Hex and byte value editor | No | Yes |
+| Search on disk and list of all matches | No | Yes |
+| Projects, Files Panel, Explorer Panel | No | Yes |
+| FTP, FTPS and SFTP client | No | Yes |
+| Tail command for log files | No | Yes |
+| External tools | No | Yes |
+| Export as HTML or RTF with colouring | No | Yes |
+Source: the vendor's edition comparison at editpad.app and its purchase pages, read on 5 November 2026.
+
+## When Lite is enough
+
+Lite covers the job if your files are ordinary text, logs under 2 GB, configuration files or small scripts, and your editing is typing, searching and replacing. Its encoding support is the same as in Pro, so nothing is lost when you open a mainframe export or a file with mixed line breaks. For home use it costs nothing, which the [free versus licensed page](free-vs-paid.html) explains.
+Lite is also the lighter download: 18 MB against 24 MB for Pro on the vendor's download pages. The [review of EditPad Lite](review.html) covers its feature set in more depth.
+
+## When Pro is the better buy
+
+If two or more of these describe a normal week, the 25 euro difference is small. If none do, Lite will not hold you back. People who need such tools without paying can also look at the [free alternatives](alternatives.html), one of which lists a macro recorder and a text compare tool.
+- You edit tables or fixed width data and need column selections.
+- You clean lists and want sorting, trimming of trailing spaces and case conversion.
+- You repeat the same edits and would record them as a macro.
+- You compare versions of a file.
+- You follow growing log files with the tail command.
+- You edit files on a server over FTP or SFTP.
+- Your files exceed available memory.
+
+## Trying Pro and upgrading later
+
+Pro has a free evaluation download. According to the vendor's download page it includes every feature except the spell checker and configurable print headers, and it reminds you to buy a licence if you keep using it. The page states no trial length in days.
+Buyers of EditPad Lite can move to Pro for 29.95 euro where new customers pay 49.95 euro, by entering their Lite user ID and email address. The discount applies only when buying direct from the vendor. The Lite licence stays valid afterwards and both editors can run on the same computer. Volume prices for Lite are on the [pricing page](pricing.html), and the Lite installer is reached through the [download page](download.html).
+
+
+## FAQ
+
+**What is the difference between EditPad Lite and EditPad Pro?**
+
+Both are editions of the same Windows text editor. Lite covers tabs, Unicode, regular expression search and syntax colouring. Pro adds column selections, sorting, bookmarks, macros, a file compare tool, a hex editor, projects, an FTP client and support for files larger than memory.
+
+**Is EditPad Pro free?**
+
+No. EditPad Pro starts at 49.95 euro for a single user, and the vendor offers a free evaluation download that reminds you to buy a licence. Only EditPad Lite is free, and only for personal use.
+
+**Can I upgrade from EditPad Lite to EditPad Pro?**
+
+Yes. People who bought EditPad Lite can buy EditPad Pro for 29.95 euro where new customers pay 49.95 euro, using their Lite user ID and email address. The discount applies only when buying direct from the vendor, and the Lite licence remains valid.
+
+**Does EditPad Lite have column mode?**
+
+No. The vendor lists rectangular selections, also called column selections, as an EditPad Pro feature. EditPad Lite works with ordinary selections only.
+
+**Can I run EditPad Lite and EditPad Pro on the same computer?**
+
+Yes. The vendor states that after upgrading, the EditPad Lite licence stays valid and both programs can run on the same computer at once.
+
+**Which edition handles larger files?**
+
+EditPad Pro. The free edition of Lite opens files up to 2 GB and a licensed Lite copy opens files that fit in available memory. Pro edits files over 4 GB, including files larger than the computer's memory.
+
+
+---
+
+# EditPad Lite alternatives: six text editors to compare
+
+URL: https://editpadlite.github.io/alternatives.html
+Updated: 2026-11-05
+
+The closest EditPad Lite alternatives are other text editors for Windows, some free for any use and some paid. This page lists six, with licence and platform facts taken from each product's own site on 5 November 2026.
+
+## Key facts
+
+- Alternatives listed: 6
+- Free for any use: Notepad++, PSPad
+- Closest in design: EditPad Pro
+- Also on Mac and Linux: Visual Studio Code, UltraEdit
+- EditPad Lite licence: 24.95 euro per user for work
+- Checked: 2026-11-05
+
+The main EditPad Lite alternatives are EditPad Pro, Notepad++, PSPad, Visual Studio Code, Sublime Text and UltraEdit. Notepad++ is free under the GPL and PSPad is freeware that also allows commercial use, both on Windows; Visual Studio Code is open source and also runs on macOS and Linux. Sublime Text costs 99 US dollars for a personal licence and UltraEdit is sold by subscription from 84.99 euro a year.
+
+## Why look beyond EditPad Lite
+
+People search for EditPad Lite alternatives for three reasons that follow from the vendor's own terms. The free edition is for personal use only, so an office needs licences. Tools such as column selection, macros and file comparison sit in the Pro edition. And the program is built for Windows, with Linux reached only through Wine.
+None of that makes it a poor editor, and the [EditPad Lite review](review.html) sets out what it does well. But if one of those three points blocks you, the editors below are the usual places to look.
+
+## The alternatives at a glance
+
+| Editor | Licence and price | Platforms | Notes from the official site |
+|---|---|---|---|
+| EditPad Pro | From 49.95 euro per user; free evaluation | Windows XP to 11 | Same vendor; adds column selection, macros, file compare, FTP |
+| Notepad++ | Free, GNU General Public License | Windows | Source code editor and Notepad replacement; version 8.9.8.1 |
+| PSPad | Freeware, also for commercial and government use | Windows | Hex editor, text compare, macro recorder, FTP client; version 5.5.3 |
+| Visual Studio Code | Open source; no price stated on the home page | Windows, macOS, Linux, browser | Code editor; also available in the browser at vscode.dev |
+| Sublime Text | 99 US dollars personal licence with 3 years of updates; free evaluation | One key for all your computers and operating systems | Business seats from 65 US dollars per seat per year |
+| UltraEdit | Subscription; Core plan 84.99 euro per year | Windows, Mac, Linux | Enterprise plan 104.99 euro per year |
+Prices and versions were read on each product's official site on 5 November 2026 and can change. EditPad Lite itself is free for personal use and 24.95 euro per user for work.
+
+## Free editors you can use at work
+
+Notepad++ describes itself as a source code editor and a replacement for Notepad. It is free software under the GNU General Public License and runs on Windows only. The current version on its site is 8.9.8.1.
+PSPad is a freeware code and text editor for Windows whose site states that it is free for commercial and government use as well. Its feature list includes a hex editor, text difference comparison, a macro recorder, a spell checker and an FTP client, several of which EditPad reserves for Pro. The current version is 5.5.3.
+Visual Studio Code is the choice when you need the same editor on Windows, macOS and Linux. The vendor of EditPad Lite offers no native build for the last two, as the [system requirements page](system-requirements.html) explains. The Visual Studio Code home page calls it open source and presents it as a tool for writing code.
+
+## Paid editors
+
+EditPad Pro is the natural step up, because nothing has to be relearned. It keeps the Lite interface and adds the withheld tools, and Lite buyers pay 29.95 euro for it. The [Lite versus Pro comparison](editpad-lite-vs-editpad-pro.html) lists the differences row by row.
+Sublime Text can be downloaded and evaluated for free, but its store says a licence must be bought for continued use. A personal licence is 99 US dollars and includes three years of updates. Business licences are an annual subscription from 65 US dollars per seat for the first ten seats.
+UltraEdit is sold by subscription. Its pricing page lists the Core plan at 84.99 euro per year and the Enterprise plan at 104.99 euro per year, with Windows, Mac and Linux shown as platforms. Against those figures the [EditPad Lite licence price](pricing.html) of 24.95 euro, paid once, is low.
+
+## When to stay with EditPad Lite
+
+Stay if your use is personal, since it then costs nothing, or if encodings are your daily problem: its list of legacy code pages, EBCDIC included, is long and conversion is one menu command. Stay also if you prefer a licence that is paid once per major version over one that is paid every year.
+If that describes you, the next step is the [EditPad Lite download page](download.html), which has the file details and install steps.
+
+
+## FAQ
+
+**What is a free alternative to EditPad Lite?**
+
+Notepad++ and PSPad are the closest free alternatives on Windows. Notepad++ is free software under the GNU General Public License, and PSPad is freeware that its site says is also free for commercial and government use. Visual Studio Code is an open source option that also runs on macOS and Linux.
+
+**How does Notepad++ compare with EditPad Lite?**
+
+Both are text editors for Windows. Notepad++ is free under the GPL for any use, while EditPad Lite is free only for personal use and costs 24.95 euro per user for work. EditPad Lite documents very broad legacy encoding support and unlimited undo that survives a save.
+
+**Is there an EditPad Lite alternative for Mac?**
+
+EditPad Lite has no macOS version, so Mac users need another editor. Visual Studio Code lists macOS as a platform, and UltraEdit shows Mac among its platforms on its pricing page.
+
+**Is there an EditPad Lite alternative for Linux?**
+
+Visual Studio Code and UltraEdit both list Linux as a platform. EditPad Lite itself can run on Linux through Wine, which the vendor documents, but there is no native Linux build.
+
+**Which alternative is closest to EditPad Lite?**
+
+EditPad Pro, from the same vendor. It has the same interface and adds column selections, macros, file comparison, a hex editor, projects and an FTP client. It starts at 49.95 euro, or 29.95 euro for people who bought EditPad Lite.
+
+**Which editors are free for commercial use?**
+
+PSPad states on its site that it is free for commercial and government purposes. Notepad++ is free software under the GNU General Public License. EditPad Lite is not free for commercial use and needs a licence at work.
+
+
+---
+
+# EditPad Lite portable: how to put it on a USB drive
+
+URL: https://editpadlite.github.io/portable-install.html
+Updated: 2026-11-05
+
+EditPad Lite portable is not a separate download. The normal program can copy itself to a USB stick or memory card with one menu command, and the installer can create a portable copy without installing anything on the computer.
+
+## Key facts
+
+- Menu command: Help > Create Portable Installation
+- Screen: Install onto Removable Drive
+- Folder on the drive: EditPadLite8
+- Settings: Stored in the same folder
+- Silent option: Installer /portable parameter, 8.5.4 and later
+- Checked: 2026-11-05
+
+To make EditPad Lite portable, insert a removable drive and choose Help > Create Portable Installation, then pick the drive and click Install. The program copies itself and your settings to a folder on the drive and runs from there without changing the host computer. If EditPad Lite is not installed, the installer offers a portable installation button that does the same.
+
+## What a portable copy does
+
+EditPad Lite portable means the editor, its settings and its history all live in one folder on a removable drive. When started from there, the program detects the removable media and leaves the host computer alone, apart from files you choose to save. According to the vendor, no DLLs or other dependencies are needed.
+This suits people who move between computers, such as a lab, a client site and home, and want the same editor with the same preferences on each. The licence rules do not change with the drive: the [personal use rule](free-vs-paid.html) still decides whether a paid licence is needed.
+
+## Before you start
+
+- A USB stick, memory card or other removable disk with free space. The Install onto Removable Drive screen shows how much is needed.
+- EditPad Lite 8 installed on a Windows computer, or the installer file from the vendor. The [download page](download.html) lists the file.
+- A host computer running a supported Windows version. See the [system requirements](system-requirements.html).
+- If the device is an external hard disk, expect Windows to report it as a fixed drive. Step 3 covers that case.
+
+## Create the portable copy from an installed EditPad Lite
+
+1. Insert the drive: Connect the USB stick, memory card or other removable disk and wait for Windows to show it.
+2. Open Create Portable Installation: In EditPad Lite, open the Help menu and choose Create Portable Installation. The Install onto Removable Drive screen opens and lists the drives that Windows reports as removable.
+3. Handle drives reported as fixed: If your external hard disk is missing from the list, turn on the option to treat all drives as removable. EditPad then writes a file named RemovableDrive.sys to the destination drive, which tells the program not to modify the host computer.
+4. Choose the parts to copy: The main application is always copied. Optional parts are the help file, the syntax coloring schemes, the file navigation schemes and any spell checker dictionaries you installed.
+5. Select the drive and click Install: Pick the target device. A label shows the disk space required and the parts being copied. Click Install, and the screen closes by itself when the copy is finished.
+6. Run it on another computer: On the other computer, open the EditPad Lite folder on the drive in Windows Explorer, named EditPadLite8 in the user's guide, and double click the EditPad Lite program file.
+
+## Create it from the installer instead
+
+If EditPad Lite is not installed, download the installer and use its portable installation button in place of a normal install. The user's guide notes that this route works even without permission to install software on the computer.
+The user's guide, which covers both EditPad editions, adds that the result depends on the Windows you run the installer on. On 32 bit Windows it creates a 32 bit copy that runs on both 32 bit and 64 bit Windows. On 64 bit Windows it creates a 64 bit copy that runs on 64 bit Windows only, unless you pass the /32 parameter to the installer.
+Since version 8.5.4 the installer also accepts a /portable parameter, which creates a silent portable installation in a folder you name. That is useful for preparing several drives in a row.
+
+## Limits of a portable copy
+
+The vendor's pages do not describe portable use on network drives or cloud folders. For a view of what the editor offers once it is running, see the [EditPad Lite review](review.html).
+- The Preferences screen has no Shortcuts page.
+- In Configure File Types, the buttons on the Definition page that create and remove file associations are disabled.
+- Running the command again never deletes files from the device, so parts you deselect stay where they are.
+- Stored file paths are updated to the drive's current letter each time EditPad starts.
+- The whole folder can be moved into another parent folder on the device.
+
+
+## FAQ
+
+**Is there a portable version of EditPad Lite?**
+
+There is no separate portable download. The standard EditPad Lite creates a portable copy through Help > Create Portable Installation, and the installer has a portable installation button. Both place the editor and its settings on a removable drive.
+
+**Where does portable EditPad Lite store its settings?**
+
+Settings and history are stored in the same folder as the program on the removable drive. The user's guide names the folder EditPadLite8, placed off the root of the device. The folder can be moved into another parent folder on the same device.
+
+**Can I make a portable copy without installing EditPad Lite?**
+
+Yes. Run the installer and choose its portable installation button instead of a normal installation. The user's guide says this works without permission to install software on the computer.
+
+**Does portable EditPad Lite change the host computer?**
+
+No, apart from files you save yourself. When started from a removable drive, the program detects this and does not modify the host computer. A portable copy also cannot create file associations or shortcuts.
+
+**Why is my external drive not listed?**
+
+The Install onto Removable Drive screen lists only drives that Windows reports as removable, and external hard disks are often reported as fixed. Turn on the option to treat all drives as removable. EditPad then creates a RemovableDrive.sys file on that drive.
+
+**Do I need a licence for a portable copy?**
+
+The same rule applies as for an installed copy. Personal use at home or school that earns no income is free, and use for a job or business needs a licence. A single user licence covers all the computers one person uses.
+
+
+---
+
+# EditPad Lite system requirements: Windows versions, Linux and Mac
+
+URL: https://editpadlite.github.io/system-requirements.html
+Updated: 2026-11-05
+
+The EditPad Lite system requirements are short: any desktop Windows from XP to 11, in 32 bit or 64 bit. The vendor publishes no processor, memory or disk figures, and offers no native build for Mac or Linux.
+
+## Key facts
+
+- Windows: XP, Vista, 7, 8, 8.1, 10, 11
+- Architecture: 32 bit and 64 bit
+- CPU, RAM, disk: Not published by the vendor
+- Installer size: 18 MB
+- Linux: Through Wine, documented by the vendor
+- macOS: No native version
+- Checked: 2026-11-05
+
+EditPad Lite 8 runs on Windows XP, Vista, 7, 8, 8.1, 10 and 11, in both 32 bit and 64 bit versions. The vendor does not publish minimum processor, memory or disk space figures, and the installer is listed at 18 MB. There is no native Linux or macOS version, but the vendor documents running the Windows version on Linux through Wine.
+
+## Supported Windows versions
+
+The EditPad Lite system requirements on the vendor's download page name operating systems only. Version 8.x supports every desktop release from Windows XP to Windows 11, in 32 bit and 64 bit builds.
+| Item | Value |
+|---|---|
+| Windows versions, EditPad Lite 8.x | XP, Vista, 7, 8, 8.1, 10, 11 |
+| Architecture | 32 bit and 64 bit |
+| Current version | 8.6.1, 8 April 2026 |
+| Installer | SetupEditPadLite.exe, 18 MB |
+| Administrator rights | Not needed for an installation per user (since 8.0.0) |
+| Dependencies | None, according to the vendor's portable page |
+| Native macOS or Linux build | None |
+
+## Processor, memory and disk space
+
+The vendor does not publish minimum processor, memory or disk space requirements for EditPad Lite, so none are quoted here. The only size on its pages is the installer: 18 MB for the free download and 19 MB for the purchased one.
+Memory matters in one documented way. The free edition opens files up to 2 GB, while a licensed copy edits files of any size that fit in available memory. Files larger than memory are a feature of EditPad Pro. The [free versus licensed page](free-vs-paid.html) covers that split.
+High resolution screens are addressed in the release notes: version 8.0.0 introduced toolbar icons that scale up to 400 percent.
+
+## Linux through Wine
+
+There is no Linux version of EditPad Lite 8. The vendor instead documents running the Windows version under Wine and reports that it works on 64 bit Ubuntu apart from a few minor glitches.
+1. Install Wine from your distribution's package manager, or from winehq.org if it is not offered there.
+2. Download the EditPad Lite installer and open it with Wine, or run it from a terminal with the wine command.
+3. Click the Immediate Installation button.
+4. Start EditPad Lite from the desktop icon.
+The vendor recommends three settings on Linux under Options > Configure File Types: set the default line break style to Linux (LF only), set the default encoding to UTF-8 or an ISO 8859 code page, and turn off writing the byte order marker. Known gaps are right to left and complex scripts, which Wine does not lay out properly, and the help file, which needs Wine's Gecko library.
+If a native Linux editor matters more than this particular one, the [alternatives page](alternatives.html) lists editors that run there.
+
+## macOS
+
+The vendor's pages do not mention macOS at all, either natively or through Wine. Mac users should treat EditPad Lite as unsupported on their system and choose another editor.
+
+## Older Windows versions and locked down computers
+
+For Windows 2000 the vendor keeps EditPad Lite 7.6.7 of 10 December 2019 available in the purchased download section. That version supports Windows 2000 through Windows 10. EditPad Lite 6 is the version the vendor names for Windows 98, ME and NT4.
+A computer you cannot install software on is not a blocker either: a [portable installation](portable-install.html) runs from a USB stick. For a normal setup, the [download page](download.html) has the steps, and work computers need a licence at the [prices listed here](pricing.html).
+
+
+## FAQ
+
+**Does EditPad Lite work on Windows 11?**
+
+Yes. The vendor lists Windows 11 among the supported systems for EditPad Lite 8, along with Windows 10, 8.1, 8, 7, Vista and XP. Both 32 bit and 64 bit versions of Windows are supported.
+
+**Does EditPad Lite still run on Windows 7 and XP?**
+
+Yes. EditPad Lite 8.6.1, released on 8 April 2026, is listed for Windows XP, Vista and 7 as well as later versions. For Windows 2000 the vendor offers the older version 7.6.7 in its purchased download section.
+
+**Is there a 64 bit version of EditPad Lite?**
+
+Yes. EditPad Lite 8 comes in 32 bit and 64 bit builds. The vendor's download page lists a single installer file for the free edition.
+
+**Does EditPad Lite run on a Mac?**
+
+No native macOS version exists, and the vendor's pages do not describe any way to run it on a Mac. Mac users should pick a different editor.
+
+**Does EditPad Lite run on Linux?**
+
+Not natively. The vendor documents running the Windows version through Wine and reports that it works on 64 bit Ubuntu with minor glitches. Right to left and complex scripts do not behave properly under Wine.
+
+**How much RAM and disk space does EditPad Lite need?**
+
+The vendor does not publish memory, processor or disk space requirements. The installer is listed at 18 MB. Memory limits the file size a licensed copy can open, while the free edition stops at 2 GB.
+
+
+---
+
+# EditPad Lite refund policy: the three month money back guarantee
+
+URL: https://editpadlite.github.io/refund-policy.html
+Updated: 2026-11-05
+
+The EditPad Lite refund policy is a three month unconditional money back guarantee from Just Great Software. This page explains how to use it, what the vendor leaves unstated, and how updates and upgrades fit in.
+
+## Key facts
+
+- Guarantee: 3 months, unconditional
+- Refund amount: Full
+- How to ask: Uninstall, then email the vendor
+- Processing time: Not stated
+- Subscription: None listed
+- Checked: 2026-11-05
+
+EditPad Lite licences come with a three month unconditional money back guarantee. To ask for a refund you uninstall the program and email the vendor through its contact page, and if the vendor cannot solve your problem it issues a full refund. The purchase page lists single purchase prices and no subscription, so there is nothing to cancel.
+
+## What the guarantee says
+
+The EditPad Lite refund policy is short. If you are not entirely happy with your purchase for any reason, you can ask for your money back within three months. The vendor calls the guarantee unconditional and lists no exclusions on its guarantee page. It applies to EditPad Lite and to the vendor's other products.
+The guarantee has one built in step: the vendor first tries to fix what bothers you. Its page says that if it cannot improve EditPad Lite or solve the problem to your full satisfaction, it will promptly issue a full refund.
+
+## How to request a refund
+
+The steps below follow the vendor's guarantee page. Keep your order email at hand, since it identifies the purchase.
+1. Uninstall EditPad Lite: Remove the program from your computer. The guarantee page names this as the first step.
+2. Email the vendor: Send a message through the contact page on editpadlite.com and explain what did not work for you.
+3. Let the vendor respond: The vendor may offer a fix or an answer first. If that does not satisfy you, say so in your reply.
+4. Receive the refund: The vendor states that it then issues a full refund promptly.
+
+## What the vendor does not state
+
+The vendor's site links to FastSpring's terms of sale, so tax and payment details follow that checkout. If one of the open points matters to you, ask before buying. The sales address is on the purchase page.
+Cancelling is not a topic here. The purchase page lists single purchase package prices and no recurring plan, so there is no renewal to stop. [EditPad Lite pricing](pricing.html) shows the packages.
+- A processing time in days for the refund.
+- The payment method used for the refund.
+- Whether part of a multi user package can be refunded on its own.
+- Any separate rules for purchases paid by bank transfer.
+
+## Updates and upgrades after you buy
+
+A licence covers every release with the same first version number, so an 8.x.x licence includes all 8.x.x updates. Help > Check for New Version shows whether a newer build exists, and running the new installer is enough to update.
+A major upgrade, such as a future 9.0.0, usually costs about half the product price. It is free if released within twelve months of your purchase, and the vendor says nobody is forced to upgrade: the older version stays available and supported, without new features.
+The money back guarantee covers upgrade purchases too. Moving to the larger edition is a separate purchase, described in the [Lite versus Pro comparison](editpad-lite-vs-editpad-pro.html).
+
+## Lower the risk before you pay
+
+The simplest protection is that the program can be used before any money changes hands. The free edition has the same core editor, so a few evenings of personal use show whether it suits you. The [free versus licensed page](free-vs-paid.html) explains what is allowed, and the file comes from the vendor through the [download page](download.html).
+
+
+## FAQ
+
+**Does EditPad Lite have a money back guarantee?**
+
+Yes. The vendor offers a three month unconditional money back guarantee on EditPad Lite and its other products. It applies if you are not entirely happy with the purchase for any reason.
+
+**How do I get a refund for EditPad Lite?**
+
+Uninstall EditPad Lite and email the vendor through the contact page on its site. The vendor first tries to solve the problem. If it cannot do so to your satisfaction, it states that it will promptly issue a full refund.
+
+**How long does an EditPad Lite refund take?**
+
+The vendor does not state a processing time. Its guarantee page says only that a full refund is issued promptly once it is clear the problem cannot be solved.
+
+**Do I need to cancel an EditPad Lite subscription?**
+
+No subscription is listed on the vendor's purchase page. A licence is a single purchase for one major version, so nothing renews. A later major version is an optional paid upgrade.
+
+**Are EditPad Lite upgrades covered by the guarantee?**
+
+Yes. The vendor's upgrade policy says the guarantee also covers upgrade purchases. A major upgrade released within twelve months of your purchase is free in any case.
+
+**Can I keep using EditPad Lite after a refund?**
+
+Not under the paid licence. The guarantee procedure starts with uninstalling the program, and a refund ends the licence that allowed work use. Personal use at home or school remains free under the vendor's standard terms.

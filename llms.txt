@@ -1,0 +1,25 @@
+# Plain Text Ledger
+
+> An independent, factual guide to EditPad Lite 8: what the free edition covers, what a work licence costs, how it differs from EditPad Pro and where to download it from the vendor.
+
+Independent guides to Editpadlite by Aleksej Palivoda. Facts come from the vendor's pages on the date shown on each page.
+
+## Start
+- [EditPad Lite download: version 8.6.1 from the official site](https://editpadlite.github.io/download.html): Download EditPad Lite 8.6.1 from the vendor: 18 MB installer, Windows XP to 11, free for personal use. Install steps, portable option and licence terms.
+
+## Decide
+- [EditPad Lite review: a small Windows text editor with clear limits](https://editpadlite.github.io/review.html): EditPad Lite 8.6.1 reviewed from the vendor's documentation: what the free edition does, the 2 GB file limit, what Pro adds and the 24.95 euro licence.
+- [EditPad Lite pricing: free for personal use, 24.95 euro for work](https://editpadlite.github.io/pricing.html): EditPad Lite pricing from the vendor's purchase page: 24.95 euro for one user, volume tiers to 100 users, 12.95 euro upgrades, 3 month money back guarantee.
+- [Is EditPad Lite free? Personal use versus the paid licence](https://editpadlite.github.io/free-vs-paid.html): EditPad Lite is free for home and school use that earns no income. See what the 24.95 euro licence adds: work use, spell checker, files over 2 GB, forum.
+- [EditPad Lite refund policy: the three month money back guarantee](https://editpadlite.github.io/refund-policy.html): EditPad Lite has a three month unconditional money back guarantee. How to ask for a refund, what the vendor does not state, and how upgrades are covered.
+
+## Compare
+- [EditPad Lite vs EditPad Pro: what the extra 25 euro buys](https://editpadlite.github.io/editpad-lite-vs-editpad-pro.html): EditPad Lite vs EditPad Pro compared from the vendor's own pages: file size limits, column selection, macros, FTP, file compare, prices and upgrade cost.
+- [EditPad Lite alternatives: six text editors to compare](https://editpadlite.github.io/alternatives.html): Six EditPad Lite alternatives with licence and platform facts from each official site: EditPad Pro, Notepad++, PSPad, VS Code, Sublime Text, UltraEdit.
+
+## Do it
+- [EditPad Lite portable: how to put it on a USB drive](https://editpadlite.github.io/portable-install.html): Make EditPad Lite portable with Help > Create Portable Installation or the installer: steps, the EditPadLite8 folder, where settings go, and the limits.
+- [EditPad Lite system requirements: Windows versions, Linux and Mac](https://editpadlite.github.io/system-requirements.html): EditPad Lite 8 runs on Windows XP through Windows 11, 32 and 64 bit. No native Linux or Mac version; the vendor documents running it on Linux with Wine.
+
+## Full text
+- [llms-full.txt](https://editpadlite.github.io/llms-full.txt): every guide on this site in plain markdown
